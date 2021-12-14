@@ -25,6 +25,11 @@ nav {
   margin: 1.04%;
 }
 
+/*nav {
+  background-image: url("../background.png");
+} 
+WOULD WORK BUT DONT WANT TO PUT BACKGROUND IMAGE IN AS DISCUSSED*/
+
 nav ul {
   list-style-type: none;
   padding: 0.05em;
